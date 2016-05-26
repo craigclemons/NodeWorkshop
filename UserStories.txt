@@ -1,0 +1,10 @@
+#1
+As a user,
+I want their to be a running server,
+So that data can be provided to me. 
+Complete
+
+#2 
+As a developer, 
+I would like a wire frame of the GUI,
+So that I know what to code.

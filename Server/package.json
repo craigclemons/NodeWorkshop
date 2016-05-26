@@ -1,0 +1,21 @@
+{
+  "name": "node_workshop",
+  "version": "0.0.1",
+  "description": "A project created by Craig Clemons to expand and present his knowledge of JavaScript and related web technologies. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "Craig",
+    "Clemons"
+  ],
+  "author": "Craig Clemons",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
